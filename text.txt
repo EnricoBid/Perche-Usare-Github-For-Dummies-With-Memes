@@ -1,0 +1,115 @@
+* Perche' usare git ? - for dummies with memes
+
+Oggi tutti parlano di github.. git qua, github la', version control-che?... sebho
+
+
+(devs want only one thing, github, and is disgusting)
+
+
+Ma perche' ? Io lavoro cosi' bene senza github!
+
+
+( ma a me che mene frega c'ho il disel !)
+
+
+NO!  Github ti semplifica e ti salva la vita. 
+
+( Seguimi ti faro' vedere come github ti aiuta)
+
+Nah, mica sono uno di quei nerd sviluppatori, questa roba e' per loro ?
+( cat )
+
+Ti sbagli Github e' per tutti! Non bisogna per forza saper programmare per usarlo!
+( free - girl )
+
+ANCHE CHI SCRIVE I LIBRI USA GITHUB!
+
+( WOOO )
+
+=====================================
+
+Ora che ho la tua attenzione, ti faro' vedere dei
+casi (reali) su come GITHUB puo' semplificare e salvare la vita - seguimi!
+
+====================================
+
+1. il computer si e' rotto
+	- senza github => ups ho perso tutto il lavoro e ho la scadenza domani
+	- con github => no problem, il mio lavoro e' su github, lo riprendero' con un nuovo pc!  
+
+	=> github ti permette di salvare il tuo lavoro sul cloud
+
+1.1 Il tick del Ctrl-Z
+	Schiaccio ripetutamente control-z perche' ho preso troppo caffe' ... oddio non mi ricordo piu' ho modificato il file oppure no
+	- senza github => fammi aprire il mio file di backup e controllare riga per riga se il nuovo e' diverso
+	- con github => no problem, github ti segnala automaticamente le modifiche dei file rispetto alla loro ultima modifica
+
+	=> github gestisce automaticamente le modifiche dei file !
+
+1.2 Il peccato di Iubris.
+	Oggi ti senti particolarmente ispirato e ti chiedi: "Chissa se riesco a fare anche questa cosa figa". Allora inizi all'improvviso a
+	risistemare un po' tutto il lavoro, un po' come quando a Macchiavelli si muovono le carte in tavola per far quadrare i nuovi conti.  
+	- senza github => copio tutto il mio lavoro in una directory di backup che... bho non si sa mai che combino. Ho rotto tutto? Cancello e copio/incollo quello di backuo. Usp ho perso un sacco di tempo
+	- con github => no problem, mi apro una sezione sperimentale su github e ci lavoro sopra. Ho rotto tutto? Nessun problema, ritorno a quella vecchia ma mi tengo la sezione sperimentale, magari alcuni risultati della prova mi possono servire in futuro.
+
+	=> github ti permette di gestire il backup del tuo lavoro !
+
+1.3 L'album dei ricordi.
+	All'ennesimo progetto di chiedi: "Ehi, un momento ma questa cosa l'avevo gia' fatta?"
+
+	- senza github => Chissa' dove l'ho messa...aspetta che controllo in giro nel computer..Ecco trovata, no aspetta e' la versione vecchia, ci deve essere da qualche parte quella nuova...forse me l'hanno mandata via email...
+	- con github => No problem, su github posso sfogliare tutti i lavori che ho fatto, e ricercare i file dalla data della loro ultima modifica e di tutte le versioni salvate, anche quelle sperimentali che non sono mai state pubblicate/
+
+	=> su github puoi sfogliare i tuoi lavori e vedere il contenuto dei file di testo, mostrandoti data ultima modifica, chi l'ha modificato e tanto altre informazioni utili!
+
+====
+- Forte, ma senti un po' ma non diventa un po' complicato se lavoriamo in team su un unico progetto di github?   
+- No ASSOLUTAMENTE
+ ANZI GITHUB E' NATO PROPRIO PER FACILITARE IL LAVORO IN TEAM
+====
+
+2. L'OMNI-SAPERE
+ 	Alle macchinette incontri un collega che dice "Ho fatto un lavoro incredibile, dovreste vederlo che forte!"
+ 	
+ 	- senza github => Me lo mandi via email che sono curioso? (Va bene tieniti pure i tuoi segreti) 
+ 	- con github => Navigo sul suo profilo e vedere il lavoro che ha caricato su github - cavolo questa roba e' davvero forte, puo' servirmi,
+ 	ti offro un caffe!
+
+ 	=> su github puoi vedere il lavoro del tuo team e imparare anche dalle loro soluzioni!
+
+2.1 La new entry
+	Sei stato affiancato da un nuovo stagista. Gli dai qualche problema da risolvere, e lui te li risolve.
+
+	- senza github => "Dai facciamo una call di un'ora e mezza dove io vado dal dentista e tu mi vai in condivisione e mi fai vedere che hai fatto"
+	- con github => Posso vedere quanto ci sta impiegando a risolvere il problema e vedere puntualmente come sta risolvendo il problema. E se sta sbagliando qualcosa, gli posso scrivere un commento in cui gli richiedo una correzione.
+
+	=> su github puoi gestire processi di review sui lavori condivisi tra colleghi!
+
+2.2 Il collega "strano"
+	Devi lavorare con un collega che ha la mania di scrivere e' al posto di è, ma tu non sopporti proprio questa cosa
+
+	- senza github => Manda tutto che ti correggo la parte di lavoro, poi mi raccomando lavora su questa che ti correggo e usa è. Prossimo rilascio ? Ricompare e' anche dove l'avevi modificata.
+	- con github => Nessun problema, da oggi in poi questa e' la versione dei file su cui dovremo lavorare e tutti saranno obligati ad usarla come versione di base.
+
+	=> github obbliga i colleghi che lavorano sullo stesso progetto ad essere sincronizzati con la versione piu' recente del lavoro prima di apportarne delle nuove modifiche!
+
+===
+- Incredibile Github e' davvero forte allora...ma... sai in realta' a me interessano di piu' i risultati...e mi sembra che github sia un po' povero per gestire i rilasci e i delivery.  
+
+- TI SBAGLI, GITHUB e' perfetto anche per gestire i rilasci!
+
+Ci sono tantissime funzionalita' su github avanzatissime che ti permettono di gestire AUTOMATICAMENTE i rilasci cloud e non.
+E' talmente avanzata, vitale e importante in determinati casi, che oggi ci sono figure professionali che si occupa proprio di questo, e sono proprio i DEVOPS!!!
+
+Loro sono dei maghi ad usare github per gestire i rilasci, roba che ti fanno anche un caffe con github!  
+
+
+===	 
+
+Ma, devi sapere che GITHUB non e' solo uno strumento utile per i dipendenti, ma anche per l'azienda. Il github e' un po' la nostra
+cassaforte aziendale, dove andiamo a metterci tutti i prodotti finiti, quelli in corso d'opera, e gli attrezzi utili per fare i prossimi futuri progetti.
+
+Per questo motivo e' importante che in azienda GITHUB venga utilizzato il piu' possibile da tutti.
+
+
+ 
